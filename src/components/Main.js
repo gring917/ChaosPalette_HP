@@ -232,7 +232,7 @@ if(this.state.isNagami){
 <div className="members_Changes">
  <div className="member_prof">
   <h2 className="Prof">Profile</h2>
-  <h2 className="prof_name">永見コウキ &nbsp; (配信者)</h2>
+  <h2 className="prof_name">永見こうき &nbsp; (配信者)</h2>
   <h3 className="prof_text">かおすぱれっとで一番のお調子者。二丁拳銃を使い、次々と敵を殲滅した、一人の元戦士。持ち前のマイペースさで一人突っ走る様子には他のメンバーも時折困惑するほどだ。4人の中では最も意欲的に配信活動などをしており、活発に動いている。好きな物はFPSゲームとアニメ。日本の文化をどんどん世界に広めたいと思っている。</h3>
  </div>
    <img onClick={()=>this.handleClickTachibana()} className="yajirusi" src={Logo14} alt="Logo" />
@@ -280,7 +280,7 @@ if(this.state.isHome){
   <td className="Home_members_text">五戸アキ</td>
   <td className="Home_members_text">真田幸成</td>
   <td className="Home_members_text">立花ケヱタ</td>
-  <td className="Home_members_text">永見コウキ</td>
+  <td className="Home_members_text">永見こうき</td>
  </table>
  <h1 className="Home_contents_Contact">Contact</h1>
  <h2 onClick={()=>this.handleClickContact()} className="Home_Contact" >要望・コラボ依頼・応援メッセージ等ありましたらこちらのフォームへ</h2>

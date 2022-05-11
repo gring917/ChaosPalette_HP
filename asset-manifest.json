@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ChaosPalette_HP/static/css/main.884602d5.chunk.css",
-    "main.js": "/ChaosPalette_HP/static/js/main.482f02d1.chunk.js",
-    "main.js.map": "/ChaosPalette_HP/static/js/main.482f02d1.chunk.js.map",
+    "main.js": "/ChaosPalette_HP/static/js/main.7eaa5ea8.chunk.js",
+    "main.js.map": "/ChaosPalette_HP/static/js/main.7eaa5ea8.chunk.js.map",
     "runtime-main.js": "/ChaosPalette_HP/static/js/runtime-main.15dd02b2.js",
     "runtime-main.js.map": "/ChaosPalette_HP/static/js/runtime-main.15dd02b2.js.map",
     "static/js/2.f0e80893.chunk.js": "/ChaosPalette_HP/static/js/2.f0e80893.chunk.js",
@@ -28,6 +28,7 @@
     "static/media/thum_intro_Nagami.42608657.PNG": "/ChaosPalette_HP/static/media/thum_intro_Nagami.42608657.PNG",
     "static/media/thumnail_youtube_1.827b20fb.png": "/ChaosPalette_HP/static/media/thumnail_youtube_1.827b20fb.png",
     "static/media/thumnail_youtube_2.23972b39.jpg": "/ChaosPalette_HP/static/media/thumnail_youtube_2.23972b39.jpg",
+    "static/media/thumnail_youtube_3.bbbbc6ba.png": "/ChaosPalette_HP/static/media/thumnail_youtube_3.bbbbc6ba.png",
     "static/media/yajirusi_left.794aea1c.png": "/ChaosPalette_HP/static/media/yajirusi_left.794aea1c.png",
     "static/media/yajirusi_right.fb6b150d.png": "/ChaosPalette_HP/static/media/yajirusi_right.fb6b150d.png"
   },
@@ -35,6 +36,6 @@
     "static/js/runtime-main.15dd02b2.js",
     "static/js/2.f0e80893.chunk.js",
     "static/css/main.884602d5.chunk.css",
-    "static/js/main.482f02d1.chunk.js"
+    "static/js/main.7eaa5ea8.chunk.js"
   ]
 }

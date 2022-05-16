@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ChaosPalette_HP/static/css/main.884602d5.chunk.css",
-    "main.js": "/ChaosPalette_HP/static/js/main.8680f869.chunk.js",
-    "main.js.map": "/ChaosPalette_HP/static/js/main.8680f869.chunk.js.map",
+    "main.js": "/ChaosPalette_HP/static/js/main.d9c28b73.chunk.js",
+    "main.js.map": "/ChaosPalette_HP/static/js/main.d9c28b73.chunk.js.map",
     "runtime-main.js": "/ChaosPalette_HP/static/js/runtime-main.15dd02b2.js",
     "runtime-main.js.map": "/ChaosPalette_HP/static/js/runtime-main.15dd02b2.js.map",
     "static/js/2.f0e80893.chunk.js": "/ChaosPalette_HP/static/js/2.f0e80893.chunk.js",
@@ -31,6 +31,7 @@
     "static/media/thumnail_youtube_3.bbbbc6ba.png": "/ChaosPalette_HP/static/media/thumnail_youtube_3.bbbbc6ba.png",
     "static/media/thumnail_youtube_4.4ef67e5c.jpg": "/ChaosPalette_HP/static/media/thumnail_youtube_4.4ef67e5c.jpg",
     "static/media/thumnail_youtube_5.7038e13e.jpg": "/ChaosPalette_HP/static/media/thumnail_youtube_5.7038e13e.jpg",
+    "static/media/thumnail_youtube_6.62daf6ad.png": "/ChaosPalette_HP/static/media/thumnail_youtube_6.62daf6ad.png",
     "static/media/yajirusi_left.794aea1c.png": "/ChaosPalette_HP/static/media/yajirusi_left.794aea1c.png",
     "static/media/yajirusi_right.fb6b150d.png": "/ChaosPalette_HP/static/media/yajirusi_right.fb6b150d.png"
   },
@@ -38,6 +39,6 @@
     "static/js/runtime-main.15dd02b2.js",
     "static/js/2.f0e80893.chunk.js",
     "static/css/main.884602d5.chunk.css",
-    "static/js/main.8680f869.chunk.js"
+    "static/js/main.d9c28b73.chunk.js"
   ]
 }
